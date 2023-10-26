@@ -17,9 +17,6 @@ Here's a way to format the information in Excel for your README file:
 | OSINT Framework       | - Open Source Intelligence framework<br> - Easy to use  |
 
 
-Certainly, here is the information structured in a more organized manner for your README file:
-
----
 
 # Best Hackers Search Engines
 
